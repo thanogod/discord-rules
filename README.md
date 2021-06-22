@@ -1,0 +1,2 @@
+# discord-rules
+discord rules
